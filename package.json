@@ -1,0 +1,23 @@
+{
+  "name": "programmers-catphoto",
+  "version": "1.0.0",
+  "description": "![Alt text](https://grepp-programmers.s3.amazonaws.com/image/origin/production/skill_check_assignment/119211/ae62b4c1-2fff-465a-81c7-1c4ba4a5288c.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -l 5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ssoon-m/programmers-catphoto.git"
+  },
+  "author": "Ssoon-m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ssoon-m/programmers-catphoto/issues"
+  },
+  "homepage": "https://github.com/Ssoon-m/programmers-catphoto#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
